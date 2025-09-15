@@ -1,9 +1,9 @@
 <H1>🍲 ChefBot – Healthy Recipe Recommender</H1>
-Overview
+<H3>Overview</H3>
 
 ChefBot is an interactive web application designed to help users create healthy and delicious meals using ingredients they already have at home. By providing a simple and intuitive interface, ChefBot recommends recipes that are nutritious, easy to prepare, and tailored to the ingredients available in your kitchen.
 
-Features
+<H3>Features</H3>
 
 Ingredient-Based Recommendations: Enter the ingredients you have, and ChefBot suggests healthy recipes.
 
@@ -51,13 +51,13 @@ Click Get Recipes.
 
 Browse through the suggested healthy recipes and follow the cooking instructions.
 
-Screenshots
+<H4>Screenshots</H4>
 
 
 <img width="1710" height="980" alt="Screenshot 2025-09-15 at 4 32 08 PM" src="https://github.com/user-attachments/assets/902816cf-cec2-4a2f-afa6-7b93d05ac4c8" />
 
 
-Contribution
+<H4>Contribution</H4>
 
 We welcome contributions! To contribute:
 
@@ -71,10 +71,8 @@ Push to the branch: git push origin feature/your-feature
 
 Open a pull request.
 
-License
-
-This project is licensed under the MIT License – see the LICENSE
- file for details.
+<H4>License</H4><br>
+Open source
 
 Contact
 
