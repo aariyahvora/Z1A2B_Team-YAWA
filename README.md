@@ -27,15 +27,9 @@ Tools: VS Code, Chrome (for testing)
 
 Installation & Setup
 
-Clone the repository:
-
-git clone https://github.com/yourusername/chefbot.git
-
-
 Navigate to the project directory:
 
 cd chefbot
-
 
 Open index.html in your preferred browser to launch the app.
 
@@ -84,5 +78,6 @@ This project is licensed under the MIT License – see the LICENSE
 
 Contact
 
-For questions or suggestions, reach out to:
-Name: Aariya Vora
+For questions or suggestions, reach out to:<br>
+Name: Aariya Vora<br>
+
