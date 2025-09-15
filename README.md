@@ -25,7 +25,7 @@ APIs: Integration with external recipe databases or AI services for intelligent 
 
 Tools: VS Code, Chrome (for testing)
 
-Installation & Setup
+<H3>Installation & Setup</H3>
 
 Navigate to the project directory:
 
@@ -71,11 +71,12 @@ Push to the branch: git push origin feature/your-feature
 
 Open a pull request.
 
-<H4>License</H4><br>
+<H4>License</H4>
 Open source
 
-Contact
+<H4>Contact</H4>
 
 For questions or suggestions, reach out to:<br>
 Name: Aariya Vora<br>
+Name: Aishwarya Kavhekar
 
