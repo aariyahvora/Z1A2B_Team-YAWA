@@ -1,4 +1,4 @@
-🍲 ChefBot – Healthy Recipe Recommender
+<H1>🍲 ChefBot – Healthy Recipe Recommender</H1>
 Overview
 
 ChefBot is an interactive web application designed to help users create healthy and delicious meals using ingredients they already have at home. By providing a simple and intuitive interface, ChefBot recommends recipes that are nutritious, easy to prepare, and tailored to the ingredients available in your kitchen.
