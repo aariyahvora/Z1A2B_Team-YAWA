@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Healthy Recipe Recommender</title>
+  <link rel="stylesheet" href="chef-style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <div class="logo">🍲 ChefBot</div>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="chef.html">ChefBot</a>
+      <a href="signup.html">Sign Up</a>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h1>THINK. PROMPT. COOK.</h1>
+    <p>Enter ingredients you have and discover recipes you can make!</p>
+    <button onclick="location.href='chef.html'">Explore Recipes</button>
+  </section>
+
+  <!-- About Section -->
+  <section class="about">
+    <h2>About ChefBot</h2>
+    <p>
+      ChefBot is an innovative web tool designed to simplify healthy cooking. 
+      Use the ingredients you already have, and we’ll suggest healthy, quick, and easy recipes.
+    </p>
+  </section>
+
+  <!-- Chatbot Section -->
+  <section class="chatbot">
+    <h2>ChefBot Chat</h2>
+    <div class="chat-window" id="chat-box">
+      <div class="chat-message bot">Hi! I'm ChefBot. What ingredients do you have?</div>
+    </div>
+    <div class="chat-input">
+      <input type="text" placeholder="Type your ingredients here..." id="user-input">
+      <button id="send-btn">Send</button>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>Made with ❤️ for healthy living</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
